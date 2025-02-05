@@ -17,8 +17,8 @@ lock = Lock()
 init(autoreset=True)
 
 # Ваши API-ключи
-api_key = "Ny4y3EMrdzq0Xes109B3SK027usxx6WO2HIgeMiKNdKKuiC6TLTDvU2lJv54qoQv"
-api_secret = "ma90EU7TZJnVyN58UExyxnqkS2VUx7QzY9LgefU0Wu61PbmZKlUIHyk7bhzhDjLy"
+api_key = ""
+api_secret = ""
 
 # Создание клиента Binance
 print(Fore.YELLOW + "Инициализация Binance API...")
